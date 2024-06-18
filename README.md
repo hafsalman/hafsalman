@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="center">Activity Graph</h3>
+<h3 align="center">Contribution Graph</h3>
 
 ###
 
