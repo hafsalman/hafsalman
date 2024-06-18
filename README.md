@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Socials: </h3>
+<h3 align="left">Socials:</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/h.afsa.tml/" target="_blank">
@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="center">Statistics:</h3>
+<h3 align="center">Statistics</h3>
 
 ###
 
