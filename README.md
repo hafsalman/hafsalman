@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Software Engineer who works on caffiene and curiousity</h3>
+<h3 align="center">A Software Engineer who works on <em>caffiene</em> and <em>Curiousity</em></h3>
 
 ###
 
