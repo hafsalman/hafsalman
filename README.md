@@ -84,26 +84,6 @@
 
 ###
 
-<h3 align="center">Contribution Graph</h3>
-
-###
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalman&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-
-###
-
-<hr>
-
-###
-
-<h3 align="center">Achievements</h3>
-
-###
-
-<img src="https://github-profile-trophy.vercel.app?username=hafsalman&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafsalman/hafsalman/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hafsalman/hafsalman/output/pacman-contribution-graph.svg">
