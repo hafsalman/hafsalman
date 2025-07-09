@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A Software Engineer who works on <em>caffiene ☕</em> and <em>curiousity 🧐</em></h3>
+<h3 align="center">A Software Engineer who works on <em>caffiene</em> ☕ and <em>curiousity</em> 🧐</h3>
 
 ###
 
@@ -12,11 +12,11 @@
 
 ###
  
-- <i>🌐 A software engineer who is still learning </i>
+- 🌐 <i>A software engineer who is still learning </i>
 
-- <i>⚙️ Passionate about solving real-world problems</i>
+- ⚙️ <i>Passionate about solving real-world problems</i>
 
-- <i>🧠 Currently working on my portfolio and Final Year Project </i>
+- 🧠 <i>Currently working on my portfolio and Final Year Project </i>
 
 ###
 
